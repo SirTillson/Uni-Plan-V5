@@ -1,6 +1,6 @@
 "use strict";
 
-const CACHE_NAME = "uniplan-static-v6.0.0";
+const CACHE_NAME = "uniplan-static-v7.0.0";
 
 const CORE_FILES = [
     "./",
